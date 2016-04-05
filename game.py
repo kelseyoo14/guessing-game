@@ -32,3 +32,5 @@ while guess != random_number:
 
 
 print "Well done, %s! You found my number in %s trys." % (name, count)
+
+print "testing!"
